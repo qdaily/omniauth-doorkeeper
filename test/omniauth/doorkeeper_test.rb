@@ -6,6 +6,6 @@ class Omniauth::DoorkeeperTest < Minitest::Test
   end
 
   def test_it_does_something_useful
-    assert
+    assert true
   end
 end
