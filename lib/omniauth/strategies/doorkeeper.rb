@@ -7,7 +7,7 @@ module OmniAuth
       option :name, :doorkeeper
 
       option :client_options, {
-                              :site => "http://server.qdaily.com:3010",
+                              :site => "http://test.app.qdaily.com:7777",
                               :authorize_url => "/oauth/authorize",
                               :token_url => "/oauth/token"
                             }
